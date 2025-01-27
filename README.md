@@ -9,3 +9,6 @@ A colorbot for LOL that identifies and aims the foot of model.
     1. Install python.
     2. Install dependencies via pip.
     3. Edit the config and run the .py file.
+> [!CAUTION]
+> Vanguard: ✅ UNDETECTED <br>
+> AntiCheatExpert: ✅ UNDETECTED
